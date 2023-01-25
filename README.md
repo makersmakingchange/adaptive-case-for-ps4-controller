@@ -32,7 +32,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 ### 2. Print the 3D Printable components
 
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Adaptive Case for PS4 Controller
 
@@ -54,12 +54,13 @@ Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_A
 [CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
-Designers:
- - Designer 1 
- - Designer 2
+
+Design: [Cisco](https://www.printables.com/social/28161-cisco/models) posted on [Printables](https://www.printables.com/model/91884-ps4-case-adapter)
+
+Documentation by Neil Squire / Makers Making Change.
 
 
 
