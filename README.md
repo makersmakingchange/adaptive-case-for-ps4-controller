@@ -1,21 +1,21 @@
-# Device-Name
-The <Device Name is ....
+# Adaptive Case for PS4 Controller
+The Adaptive Case for PS4 Controller is an inexpensive and non-destructive controller modification designed to make the stock Ps4 controller more accessible. This device aims to assist those with limited hand dexterity by enlarging and spreading out the buttons on the Ps4 controller. This device can be mounted to a surface so that both hands can freely operate the controls.   
 
-<img src="Photos/Device-Name.jpg" width="500" alt="Picture of Device-Name.">
+<img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller)
 - [Makers Making Change Forum Thread](<Add link>)
 
 
-## How to Obtain a <Device-Name>
+## How to Obtain an Adaptive Case for PS4 Controller
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the <Device-Name> are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Adaptive Case for PS4 Controller are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a <Device-Name> , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/device-name/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain an Adaptive Case for PS4 Controller , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -28,32 +28,27 @@ If you have the skills and equipment to build this device, and would like to don
 
 The Makers Checklist contains a list of tasks to complete to build the device.
 
-### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the parts and components required to build the <Device-Name>. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+### 2. Print the 3D Printable components
 
-
-### 3. Print the 3D Printable components
-
-Print the components ...
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-### 4. Assemble the <Device-Name>...
+### 3. Assemble the Adaptive Case for PS4 Controller
 
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Device-Name_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [Adaptive_Case_for_Ps4_Controller_Design_Rationale](/Documentation/Adaptive_Case_for_Ps4_Controller_Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Adaptive_Case_for_Ps4_Controller_Maker_Checklist](/Documentation/Adaptive_Case_for_Ps4_Controller_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Adaptive_Case_for_Ps4_Controller_Bill_of_Materials](/Documentation/Adaptive_Case_for_Ps4_Controller_BOM_v1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide_v1.0.pdf)   |
+| Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide_v1.0.pdf)     |
+| User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [Adaptive_Case_for_Ps4_Controller_Changelog](/Documentation/Adaptive_Case_for_Ps4_Controller_Changelog_v1.0.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
@@ -69,9 +64,9 @@ Designers:
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare theAdaptive_Case_for_Ps4_Controller is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Adaptive_Case_for_Ps4_Controller are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 
 ---
