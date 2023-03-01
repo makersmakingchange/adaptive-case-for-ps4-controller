@@ -36,19 +36,19 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 3. Assemble the Adaptive Case for PS4 Controller
 
-Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Adaptive_Case_for_Ps4_Controller_Design_Rationale](/Documentation/Adaptive_Case_for_Ps4_Controller_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Adaptive_Case_for_Ps4_Controller_Maker_Checklist](/Documentation/Adaptive_Case_for_Ps4_Controller_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Adaptive_Case_for_Ps4_Controller_Bill_of_Materials](/Documentation/Adaptive_Case_for_Ps4_Controller_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide_v1.0.pdf)   |
-| Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [Adaptive_Case_for_Ps4_Controller_Changelog](/Documentation/Adaptive_Case_for_Ps4_Controller_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [Adaptive_Case_for_Ps4_Controller_Design_Rationale](/Documentation/Adaptive_Case_for_Ps4_Controller_Design_Rationale.pdf)     |
+| Maker Checklist      | 1.0     | [Adaptive_Case_for_Ps4_Controller_Maker_Checklist](/Documentation/Adaptive_Case_for_Ps4_Controller_Maker_Checklist.pdf)     |
+| Bill of Materials    | 1.0     | [Adaptive_Case_for_Ps4_Controller_Bill_of_Materials](/Documentation/Adaptive_Case_for_Ps4_Controller_BOM.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_3D_Printing_Guide.pdf)   |
+| Assembly Guide       | 1.0     | [Adaptive_Case_for_Ps4_Controller_Assembly_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_Assembly_Guide.pdf)     |
+| User Guide           | 1.0     | [Adaptive_Case_for_Ps4_Controller_User_Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_User_Guide.pdf)    |
+| Changelog            | 1.0     | [Adaptive_Case_for_Ps4_Controller_Changelog](/Documentation/Adaptive_Case_for_Ps4_Controller_Changelog.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
