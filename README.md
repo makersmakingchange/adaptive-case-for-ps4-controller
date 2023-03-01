@@ -1,5 +1,5 @@
 # Adaptive Case for PS4 Controller
-The Adaptive Case for PS4 Controller is an inexpensive and non-destructive controller modification designed to make the stock Ps4 controller more accessible. This device aims to assist those with limited hand dexterity by enlarging and spreading out the buttons on the Ps4 controller. This device can be mounted to a surface so that both hands can freely operate the controls.   
+The Adaptive Case for PS4 Controller is an inexpensive and non-destructive controller modification designed to make the stock PS4 controller more accessible. This device aims to assist those with limited hand dexterity by enlarging and spreading out the buttons on the PS4 controller. This device can be mounted to a surface so that both hands can freely operate the controls.   
 
 <img src="Photos/Device_Photo.jpg" width="500" alt="Picture of a black and gray Adaptive Case for PS4 Controller">
 
