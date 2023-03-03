@@ -5,7 +5,7 @@ The Adaptive Case for PS4 Controller is an inexpensive and non-destructive contr
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/adaptive-case-for-ps4-controller/)
 
 
 ## How to Obtain an Adaptive Case for PS4 Controller
