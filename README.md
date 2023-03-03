@@ -51,7 +51,7 @@ Reference the [Assembly Guide](/Documentation/Adaptive_Case_for_Ps4_Controller_A
 | Changelog            | 1.0     | [Adaptive_Case_for_Ps4_Controller_Changelog](/Documentation/Adaptive_Case_for_Ps4_Controller_Changelog.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+- [CAD Files](/Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
