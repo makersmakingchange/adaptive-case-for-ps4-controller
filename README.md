@@ -5,7 +5,6 @@ The Adaptive Case for PS4 Controller is an inexpensive and non-destructive contr
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/adaptive-case-for-ps4-controller)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/adaptive-case-for-ps4-controller/)
 
 
 ## How to Obtain an Adaptive Case for PS4 Controller
@@ -30,7 +29,6 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 
 ### 2. Print the 3D Printable components
-
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
@@ -72,6 +70,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 ---
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -89,3 +88,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
